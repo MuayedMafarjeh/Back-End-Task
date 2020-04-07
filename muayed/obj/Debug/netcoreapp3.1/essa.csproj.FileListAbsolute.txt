@@ -1,0 +1,10 @@
+E:\fullStack\BackendProj\essa\essa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\fullStack\BackendProj\essa\essa\bin\Debug\netcoreapp3.1\appsettings.json
+E:\fullStack\BackendProj\essa\essa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\fullStack\BackendProj\essa\essa\bin\Debug\netcoreapp3.1\essa.exe
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\essa.csprojAssemblyReference.cache
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\essa.AssemblyInfoInputs.cache
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\essa.AssemblyInfo.cs
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\essa.RazorTargetAssemblyInfo.cache
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\staticwebassets\essa.StaticWebAssets.Manifest.cache
+E:\fullStack\BackendProj\essa\essa\obj\Debug\netcoreapp3.1\staticwebassets\essa.StaticWebAssets.xml
